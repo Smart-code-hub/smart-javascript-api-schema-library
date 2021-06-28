@@ -1,0 +1,1 @@
+# smart-javascript-api-schema-library
